@@ -91,7 +91,6 @@ h1 {
 /* MAIN */
 
 .nameProduct {
-  text-align: center;
   padding-top: 2%;
   padding-bottom: 2%;
   padding-left: 2%;
@@ -119,4 +118,8 @@ footer {
 
 .container-social {
   background-color: rgb(25, 25, 25);
+}
+
+.row-products > div{
+  padding:1rem;
 }
