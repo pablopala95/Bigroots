@@ -88,8 +88,15 @@ h1 {
   font-size: x-large;
 }
 
+.shops {
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .font {
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 /* MAIN */
@@ -114,36 +121,7 @@ h1 {
 }
 
 
-/* SHOPS */
-
-.text-gray-700 {
-  --text-opacity: 1;
-  color: #4a5568;
-  color: rgba(74,85,104,var(--text-opacity));
-}
-
-.relative {
-  position: relative;
-}
-
-.inset-0 {
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
+/* MAIN-SHOPS */
 
 
 
