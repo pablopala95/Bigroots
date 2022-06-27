@@ -67,7 +67,7 @@
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* CHATIMAGE */
+/* CHATIMAGE-WPP */
 
 .chatimage {
   position: fixed;
@@ -99,7 +99,7 @@ h1 {
   text-decoration: underline;
 }
 
-/* MAIN */
+/* MAIN-SMOKE-INDEX */
 
 .nameProduct {
   padding-top: 2%;
@@ -119,10 +119,6 @@ h1 {
 .row-products>div {
   padding: 1rem;
 }
-
-
-/* MAIN-SHOPS */
-
 
 
 /* FOOTER */
