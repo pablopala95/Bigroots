@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+/*VARIABLES*/
+/*HEADER*/
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 10; }
+
+.tableTop a {
+  display: block;
+  padding: 0%;
+  background-color: black;
+  text-decoration: none;
+  text-align: center;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white; }
+  .tableTop a:hover {
+    color: white; }
+
+/*NAVBAR*/
+.navbar {
+  background-color: #191919;
+  box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.5); }
+
+.tamLogo {
+  width: 150px; }
+
+.navbar-nav {
+  text-align: end;
+  padding: 20px; }
+  .navbar-nav li a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 20px;
+    letter-spacing: 1px;
+    transition: 0.7s; }
+
+/*CAROUSEL*/
+.carousel h5 {
+  font-size: xxx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.carousel p {
+  font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+/*CHATIMAGE-WPP*/
+.chatimage {
+  position: fixed;
+  bottom: 5%;
+  right: 3%;
+  width: 50px;
+  height: 50px;
+  fill: green; }
+
+/*SECTION*/
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: x-large; }
+
+.shops {
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+
+.font {
+  text-decoration: underline; }
+
+/*MAIN-SMOKE-INDEX*/
+.nameProduct {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.precio {
+  text-align: center;
+  padding-bottom: 20%;
+  font-size: xx-large; }
+
+.row-products > div {
+  padding: 1rem; }
+
+/*FOOTER*/
+footer {
+  justify-content: space-between; }
+
+.container-footer {
+  width: 100%; }
+
+.container-social {
+  background-color: #191919; }
